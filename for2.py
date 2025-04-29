@@ -7,7 +7,7 @@
 #i es igual a la iteratura del operador
 
 def mostrarletra(numero):
-    for i in range (numero+1):
+    for i in range (1, numero+1):
         print(f"a"*i)
         
 def main():
